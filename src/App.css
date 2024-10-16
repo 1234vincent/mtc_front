@@ -1,0 +1,28 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.appointment-form input {
+  margin: 10px;
+  padding: 8px;
+  width: 80%;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+.appointment-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.appointment-list li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
